@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nelson Abreu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_4ac9779028e878e6765286bd2778cf59d12eb0cf.jar" />
+    </item>
+    <item
+        jar="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_2b84764d74c9ecb7a1b00d4992968f72360a38ad.jar" />
+    </item>
+    <item
+        jar="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_b8cdda2e58ecdd866eedc596d66221b653e9196a.jar" />
+    </item>
+    <item
+        jar="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_a6f959d71ca7370fcce8c1e6d77c364817a7cbcf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nelson Abreu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\gson-2.7_a3e587a4784a024948dc4bbaed6e8d5280f951e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nelson Abreu\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_076044e505fcfc7c43c339d8122e3fd27c8e0d3d.jar" />
+    </item>
+    <item
+        jar="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04e060d79718c38be2ad513c2f3e5f4773ea9a35">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\instant-run_b3ca00628dbb28c78f03cd22796cf011c62c415e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nelson Abreu\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-activation\1.5.5\5442d5e05808145434b750c9f8a0c3f537383c5a\android-activation-1.5.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\android-activation-1.5.5_7e0951793b9b881db6810c327294b182d7ae469b.jar" />
+    </item>
+    <item
+        jar="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_e105243025f41a8654220281b66b92268856d048.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nelson Abreu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\okio-1.8.0_e1d480f6e8af77e3329ccf5c5adb8029093da56c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nelson Abreu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_eb100e175f42dac1c8ef36680e3f262f123eb621.jar" />
+    </item>
+    <item
+        jar="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b7ce5279c6b5caa02cd868a527c2f3ee4ccc0679">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b622487f6e999fe7457eb8a93ca10bec2f3f52a2.jar" />
+    </item>
+    <item
+        jar="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_84b722bb3b56957f625c37f1251935b951d8902e.jar" />
+    </item>
+    <item
+        jar="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_5341acbf9e9450ff4575c7f70c351bb310c94c0e.jar" />
+    </item>
+    <item
+        jar="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\com.mikhaellopez-circularimageview-3.0.2_8e1685138fc92b7bd15a439c0ce9beeed40f525e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nelson Abreu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_1f6c540d87d6616abb8057a0d74a62726f46c3a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nelson Abreu\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-mail\1.5.5\53a2f927b235acb565dbe9314ececfb7e6d43020\android-mail-1.5.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\android-mail-1.5.5_cd12d06d311c554a1da61a16d5849ed9b222d172.jar" />
+    </item>
+    <item
+        jar="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_60618c9347ef795e448f43479e86817160f9ebe3.jar" />
+    </item>
+    <item
+        jar="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_f4a1572b3c49654e92737a34778e75d8500b8e4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nelson Abreu\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Dropbox\AndroidProjects\PetagramConInstagram\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_9016b271a855679b7154d123b155def88b44af12.jar" />
+    </item>
+
+</items>
